@@ -1,1 +1,14 @@
 // Specific CSS for your home-page
+.container {
+  background-repeat: no-repeat;
+  background-size: cover;
+  background-color: lightgrey;
+  height: 100vh;
+  width: 100vw;
+}
+
+p {
+  background-color: white;
+  width: 100px;
+  height: 100px;
+}
